@@ -18,3 +18,5 @@ User(View grid/Choose Color/ Place Pixel/ Logout)
 Admin([Extends from User] Unlimited pixels/ Ban Users)
 
 *subject to change
+
+![alt tag](https://github.com/Toxiatris1/PlaceThing/blob/master/UseCase.jpg)
