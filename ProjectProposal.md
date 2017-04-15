@@ -13,8 +13,8 @@ Implement botting countermeasures (eg Captcha/Advanced account creation techniqu
 # Site User Roles
 Guest (View grid/ Login/ Create Account)
 
-User(View grid/ Place on grid/ Logout)
+User(View grid/Choose Color/ Place Pixel/ Logout)
 
-Admin(View grid/ Place on grid/ Unlimited pixels/ Ban Users/ Logout)
+Admin([Extends from User] Unlimited pixels/ Ban Users)
 
 *subject to change
