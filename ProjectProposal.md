@@ -15,4 +15,4 @@ Guest (View grid/ Login/ Create Account)
 User(View grid/ Place on grid/ Logout)
 Admin(View grid/ Place on grid/ Unlimited pixels/ View Users/ Logout)
 
-* subject to change
+*subject to change
