@@ -19,4 +19,4 @@ Admin([Extends from User] Unlimited pixels/ Ban Users)
 
 *subject to change
 
-![alt tag](https://github.com/Toxiatris1/PlaceThing/blob/master/UseCase.jpg)
+![alt tag](https://github.com/Toxiatris1/PlaceThing/blob/master/UseCase.JPG)
